@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/quantumsleeper/Kidney-Disease-Classification
+Author: quantumsleeper
+Author-email: f2015511p@alumni.bits-pilani.ac.in
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/quantumsleeper/Kidney-Disease-Classification/issues
+Platform: UNKNOWN
+
 # Kidney-Disease-Classification
 
 
@@ -180,4 +191,6 @@ DVC
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+
 
